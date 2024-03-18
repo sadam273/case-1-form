@@ -1,0 +1,41 @@
+.isi {
+    margin-top: 20px;
+    width: 60%;
+    height: auto;
+    margin-left: 20px;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 400px;
+    height: auto;
+}
+
+.form-1{
+    display: flex;
+    gap: 50px;
+}
+
+.form-2{
+    display: flex;
+    gap: 30px;
+}
+
+.form-3{
+    display: flex;
+    gap: 29px;
+}
+
+/*
+.sisi-kanan{
+    margin-left: 90px;
+}
+*/
+
+.button-1{
+    margin-left: 59%;
+}
+
+
