@@ -1,8 +1,13 @@
 .isi {
-    margin-top: 20px;
-    width: 60%;
-    height: auto;
-    margin-left: 20px;
+    margin-top: 194px;
+    margin-left: 100px;
+    margin-right: 539px;
+    margin-bottom: 274px;
+    width: 641px;
+    height: 364px;
+    background-color: #CEE6F3;
+    border-radius: 24px;
+    padding: 20px;
 }
 
 .form{
@@ -36,6 +41,22 @@
 
 .button-1{
     margin-left: 59%;
+}
+
+h1{
+    width: 350px;
+    height: 14px;
+    color: #000;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 15px;
+}
+
+p{
+    text-align: justify;
 }
 
 
