@@ -1,8 +1,7 @@
 .isi {
-    margin-top: 194px;
+    margin-top: 102px;
     margin-left: 100px;
-    margin-right: 539px;
-    margin-bottom: 274px;
+    margin-bottom: 150px;
     width: 641px;
     height: 364px;
     background-color: #CEE6F3;
@@ -59,4 +58,90 @@ p{
     text-align: justify;
 }
 
+.isi2{
+    display: flex;
+    flex-direction: column;
+    margin-left: 98px;
+    margin-top: 138px;
+}
 
+
+.rumus{
+    background-color: #CEE6F3;
+    width: 264px;
+    height: 156px;
+    padding-top: 20px;
+    padding-left: 10px;
+    border-radius: 24px;
+    margin-top: 20px;
+}
+
+.hasil{
+    margin-top: 50px;
+    margin-bottom: 80px;
+}
+
+.hasil p{
+    color: #000;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.navbar{
+    background-color: #CEE6F3;
+    height: 76px;
+    width: auto;
+}
+
+.navbar-brand.mb-0.h1{
+    color: #000;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-left: 90px;
+    padding-right: 90px;
+}
+
+footer{
+    background-color: #CEE6F3;
+    width: auto;
+    height: 150px;
+    display: flex;
+    gap: 105px;
+}
+
+ul{
+    list-style-type: none;
+    display: flex;
+    gap: 103px;
+    padding-top: 55px;
+}
+
+ul li{
+    color: var(--Dark, #0A142F);
+    text-align: center;
+    font-family: Poppins;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.nama-kelompok{
+    margin-left: 80px;
+    padding-top: 52px;   
+}
+
+.nama-kelompok p{
+    color: #000;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
